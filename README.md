@@ -16,4 +16,4 @@ Welcome to the Flag Guessing Game built with EJS and Express.js! Test your knowl
    node index.js
 ## Images
 ![Image 1](image-1.png)
-
+![Image 2](image-2.png)
