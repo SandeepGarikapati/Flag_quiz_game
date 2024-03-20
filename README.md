@@ -14,5 +14,6 @@ Welcome to the Flag Guessing Game built with EJS and Express.js! Test your knowl
 
    ```bash
    node index.js
-##Images
-![image-1]([image_url](https://github.com/SandeepGarikapati/Flag_quiz_game/blob/main/image-1.png)https://github.com/SandeepGarikapati/Flag_quiz_game/blob/main/image-1.png)
+## Images
+![Image 1](image-1.png)
+
