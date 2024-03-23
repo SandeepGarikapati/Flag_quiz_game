@@ -10,7 +10,7 @@ Welcome to the Flag Guessing Game built with EJS and Express.js! Test your knowl
 4. Install dependencies by running: npm i -y
 5. Start the server by node index.js
    ```bash
-   npm install
+   node index.js
 
    ```bash
    node index.js
