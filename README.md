@@ -17,3 +17,11 @@ Welcome to the Flag Guessing Game built with EJS and Express.js! Test your knowl
 ## Images
 ![Image 1](image-1.png)
 ![Image 2](image-2.png)
+
+## Instructions for Database
+For database use postgres load the Flags.csv into Postgres and then you can change the index.js to your own settings
+![Image 3](3.png)
+
+
+
+## USE MOZILLA FIREFOX FOR BETTER EXPERIENCE
