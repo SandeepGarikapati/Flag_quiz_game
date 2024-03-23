@@ -7,7 +7,7 @@ Welcome to the Flag Guessing Game built with EJS and Express.js! Test your knowl
 1. Clone this repository to your local machine.
 2. Make sure you have Node.js and npm installed.
 3. Navigate to the repository directory in your terminal.
-4. Install dependencies by running:
+4. Install dependencies by running: npm i -y
 5. Start the server by node index.js
    ```bash
    npm install
